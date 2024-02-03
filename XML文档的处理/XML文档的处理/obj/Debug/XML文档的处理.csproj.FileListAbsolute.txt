@@ -1,0 +1,7 @@
+D:\Code\C#\XML文档的处理\XML文档的处理\bin\Debug\XML文档的处理.exe.config
+D:\Code\C#\XML文档的处理\XML文档的处理\bin\Debug\XML文档的处理.exe
+D:\Code\C#\XML文档的处理\XML文档的处理\bin\Debug\XML文档的处理.pdb
+D:\Code\C#\XML文档的处理\XML文档的处理\obj\Debug\XML文档的处理.csproj.AssemblyReference.cache
+D:\Code\C#\XML文档的处理\XML文档的处理\obj\Debug\XML文档的处理.csproj.CoreCompileInputs.cache
+D:\Code\C#\XML文档的处理\XML文档的处理\obj\Debug\XML文档的处理.exe
+D:\Code\C#\XML文档的处理\XML文档的处理\obj\Debug\XML文档的处理.pdb

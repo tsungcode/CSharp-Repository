@@ -1,0 +1,7 @@
+D:\Code\C#\MyLists的自实现\MyLists的自实现\bin\Debug\MyLists的自实现.exe.config
+D:\Code\C#\MyLists的自实现\MyLists的自实现\bin\Debug\MyLists的自实现.exe
+D:\Code\C#\MyLists的自实现\MyLists的自实现\bin\Debug\MyLists的自实现.pdb
+D:\Code\C#\MyLists的自实现\MyLists的自实现\obj\Debug\MyLists的自实现.csproj.AssemblyReference.cache
+D:\Code\C#\MyLists的自实现\MyLists的自实现\obj\Debug\MyLists的自实现.csproj.CoreCompileInputs.cache
+D:\Code\C#\MyLists的自实现\MyLists的自实现\obj\Debug\MyLists的自实现.exe
+D:\Code\C#\MyLists的自实现\MyLists的自实现\obj\Debug\MyLists的自实现.pdb

@@ -1,0 +1,7 @@
+D:\Code\C#\XML文档的读取\XML文档的读取\bin\Debug\XML文档的读取.exe.config
+D:\Code\C#\XML文档的读取\XML文档的读取\bin\Debug\XML文档的读取.exe
+D:\Code\C#\XML文档的读取\XML文档的读取\bin\Debug\XML文档的读取.pdb
+D:\Code\C#\XML文档的读取\XML文档的读取\obj\Debug\XML文档的读取.csproj.AssemblyReference.cache
+D:\Code\C#\XML文档的读取\XML文档的读取\obj\Debug\XML文档的读取.csproj.CoreCompileInputs.cache
+D:\Code\C#\XML文档的读取\XML文档的读取\obj\Debug\XML文档的读取.exe
+D:\Code\C#\XML文档的读取\XML文档的读取\obj\Debug\XML文档的读取.pdb

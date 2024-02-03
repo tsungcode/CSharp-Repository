@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+  <Book>
+    <Name>读书破万卷</Name>
+    <Price>18</Price>
+    <Des>行万里路，读万卷书</Des>
+  </Book>
+  <Book>
+    <Name>资治通鉴</Name>
+    <Price>20</Price>
+    <Des>以史为镜</Des>
+    <Item />
+    <Flag>
+    </Flag>
+  </Book>
+</Books>
